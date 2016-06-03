@@ -1,0 +1,43 @@
+{
+  "author": {
+    "email": "fktjif@gmail.com",
+    "name": "Cernobai Alexei",
+    "url": "http://www.codefactory47.com/"
+  },
+  "dependencies": {
+    "passport-oauth": "0.1.x",
+    "pkginfo": "0.2.x"
+  },
+  "description": "Envato authentication strategy for Passport.",
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/expert/passport-envato#readme",
+  "keywords": [
+    "passport",
+    "envato",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-envato",
+  "maintainers": [
+    {
+      "email": "fktjif@gmail.com",
+      "name": "Alexei"
+    }
+  ],
+  "name": "passport-github",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!"
+}
