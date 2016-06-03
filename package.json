@@ -39,5 +39,12 @@
   ],
   "name": "passport-github",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/expert/passport-envato.git"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "version": "0.1.1"
 }
